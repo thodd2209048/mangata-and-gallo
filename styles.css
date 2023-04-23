@@ -1,3 +1,12 @@
+/* #top-navbar {
+  display: flex;
+  justify-content: center;
+} */
+
+#navbarSupportedContent {
+  flex-grow: 0;
+}
+
 #top-banner {
   background-image: url("/image/banner.jpg");
   background-size: cover;
